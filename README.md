@@ -1,1 +1,1 @@
-# [majsoul 雀魂api](https://github.com/takayama-lily/mjsoul)
+# [雀魂api](https://github.com/takayama-lily/mjsoul)
